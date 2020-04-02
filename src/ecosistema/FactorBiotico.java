@@ -2,6 +2,6 @@ package ecosistema;
 
 public class FactorBiotico {
 
-	Ecosistema ecosistema;
+	private Biocenosis biocenosis;
 
 }
